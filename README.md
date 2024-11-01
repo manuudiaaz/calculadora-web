@@ -8,12 +8,6 @@ Este proyecto es una aplicación web de calculadora simple desarrollada en Pytho
 - **Interfaz sencilla**: Formulario limpio y fácil de usar, con campos de entrada para los números y un menú desplegable para seleccionar la operación.
 - **Responsive**: Adaptable a diferentes tamaños de pantalla, lo que permite utilizarla en dispositivos móviles.
 
-## Estructura del Proyecto
-
-La estructura de carpetas y archivos del proyecto es la siguiente:
-
-calculadora/ ├── app.py # Código principal de la aplicación Flask ├── static/ │ └── style.css # Estilos CSS para la interfaz └── templates/ └── index.html # Plantilla HTML para la interfaz
-
 
 ## Requisitos
 
