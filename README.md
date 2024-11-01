@@ -12,6 +12,6 @@ Este proyecto es una aplicación web de calculadora simple desarrollada en Pytho
 ## Requisitos
 
 - **Python** 3.x
-- **Flask** (puedes instalarlo ejecutando `pip install Flask`)
+- **Flask** (se puede instalar ejecutando `pip install Flask`)
 
    
